@@ -1,0 +1,4 @@
+django-cors-headers           
+djangorestframework           
+djangorestframework_simplejwt 
+pillow                        

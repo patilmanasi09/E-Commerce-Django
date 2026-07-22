@@ -1,0 +1,10 @@
+.env
+*.jpg
+*.jpeg
+*.png
+
+db.sqlite3
+
+*.pyc
+
+initial.py
